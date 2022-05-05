@@ -6,5 +6,6 @@
 		<file>icons/settings.png</file>
 		<file>icons/themes.png</file>
 		<file>icons/users.png</file>
-			</qresource>
+		<file>icons/flat.png</file>
+	</qresource>
 </RCC>
